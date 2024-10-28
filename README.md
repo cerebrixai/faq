@@ -14,7 +14,7 @@ Cerebrix AI is an innovative DeFi project built on the Binance Smart Chain. It c
 
 You can buy CERB in two ways:
 
-1. **Early Access Buy Contract**: You have the option to purchase CERB tokens through a buy contract, where a fixed amount of tokens is available at an early access price of **0.0001 BNB per token**.
+1. **Early Access Buy Contract**: You have the option to purchase CERB tokens through a buy contract, where a fixed amount of tokens is available at an early access price of **0.06 USD per token**.
 
 2. **Directly from the Market**: CERB tokens will also be available for trading on decentralized exchanges, such as **PancakeSwap**, from day one. This allows you to buy and sell CERB directly on the open market at any time.
 
