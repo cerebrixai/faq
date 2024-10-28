@@ -70,13 +70,7 @@ Our AI system continuously evolves to adapt to market conditions, maximizing pot
 
 ---
 
-## 10. Does Cerebrix AI offer governance for token holders? 
-
-Yes, we aim to introduce governance mechanisms where **CERB token holders** will have a voice in key project decisions. This will allow the community to participate in voting on updates, changes, and the allocation of funds, ensuring that the project remains decentralized and aligned with the interests of its users.
-
----
-
-## 11. Is there any insurance or protection for my funds?
+## 10. Is there any insurance or protection for my funds?
 
 While DeFi investments carry inherent risks, we have implemented several safety measures such as smart contract audits and stringent security protocols. However, **there is no insurance or guarantee** for your funds. It's important to note that **you hold your CERB tokens in your own wallet**, and you are responsible for the safety of your assets.
 
@@ -88,7 +82,7 @@ We encourage users to take precautions to ensure the security of their wallet an
 
 ---
 
-## 12. What are the future plans for Cerebrix AI?
+## 11. What are the future plans for Cerebrix AI?
 
 We are committed to the long-term growth and success of Cerebrix AI. Our roadmap includes plans for:
 - Expanding our ecosystem by integrating with more DeFi platforms.
@@ -98,7 +92,7 @@ We are committed to the long-term growth and success of Cerebrix AI. Our roadmap
 
 ---
 
-## 13. How can I monitor my staking rewards and the platform's performance?
+## 12. How can I monitor my staking rewards and the platform's performance?
 
 Your staking rewards are fixed at **0.27% per day** and can be monitored directly in your personal dashboard. You will see your rewards accumulate daily, providing full transparency on your staking earnings.
 
@@ -106,26 +100,26 @@ In addition, we will publish detailed updates on the **buybacks** and **deposits
 
 ---
 
-## 14. Is Cerebrix AI forming any partnerships?
+## 13. Is Cerebrix AI forming any partnerships?
 
 We are actively seeking strategic partnerships with other projects in the DeFi space to expand the utility and reach of **CERB** tokens. These partnerships will enhance liquidity, provide additional use cases for the tokens, and create new opportunities for the Cerebrix AI community. Stay tuned for announcements regarding upcoming collaborations.
 
 ---
 
-## 15. Where can I find more information?
+## 14. Where can I find more information?
 
 For more details, visit our official website: [cerebrix.io](https://cerebrix.io)  
 You can also join our community on Telegram: [Get the latest News](https://t.me/CerebrixAI).
 
 ---
 
-## 16. How can I participate?
+## 15. How can I participate?
 
 To participate, visit our website, create an account, and follow the instructions for minting and staking.
 
 ---
 
-## 17. What risks are associated with staking?
+## 16. What risks are associated with staking?
 
 All CERB tokens are held securely in a **smart contract** that has been thoroughly tested and audited for security. The daily staking rewards of **0.27%** will continue as long as your tokens remain staked in the contract. However, there are some inherent risks, such as market volatility and external factors that could impact the DeFi ecosystem. Please invest only what you can afford to lose.
 
