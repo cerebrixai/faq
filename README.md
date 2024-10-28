@@ -63,10 +63,12 @@ A total of **449,970,000 CERB tokens** are available for staking from the start.
 ## 9. How does AI-driven trading generate profits?
 
 Our AI algorithms analyze real-time market data, identify trends, and execute trades with high efficiency and accuracy. **75%** of the capital is allocated to these AI-driven trades, and profits generated are used to:
-- Buy back CERB tokens to maintain token stability.
-- Refill the staking contract, ensuring consistent rewards for stakers.
+1.	Burned: Tokens are burned to reduce the circulating supply, increasing scarcity and potentially enhancing the value of existing tokens.
+2.	Added to Liquidity Pools: Tokens are added to liquidity pools, improving market stability and facilitating smoother trading on decentralized exchanges.
+3.	Deposited into the Staking Contract: Tokens are deposited back into the staking contract to maintain liquidity and ensure the continued distribution of staking rewards for CERB holders.
+   
+This flexible buyback mechanism is designed to support both token value and the long-term sustainability of the staking program, providing ongoing benefits to the community.
 
-Our AI system continuously evolves to adapt to market conditions, maximizing potential returns for the Cerebrix AI community.
 
 ---
 
